@@ -1,4 +1,5 @@
-##CHANGES
+CHANGES
+
 Added latitude and longitude box in business signup address form and added it to backend.
 In the mysql server in both bookings and newbookings database in business_address add latitude and longitude of type  float(8,6)
 
